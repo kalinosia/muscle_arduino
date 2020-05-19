@@ -16,13 +16,13 @@ Due to the size of the measuring electrode applied to the skin surface, we colle
 
 ## What we need
 * Arduino
-<img src="https://lh3.googleusercontent.com/proxy/dKQSPoAbY_zSbXoB4rTQ_3RIn607HQNJNyYUrEUP7GYvdglc172nOmpblpsqQ3f9KwSKR-ShN29WLjk93gunzPXcqsccV0CsFKYjhXmCT7lgZihIkHRRAquSxR8QHhJ6Iw_Ub_bJSMUSSbQdQBZQ-0pcCxgG8ffZqRfEmyCfOHuuoOo43m3bfe9oG5wgCPIGBw" height="300px" width="225px">
+<img src="https://lh3.googleusercontent.com/proxy/dKQSPoAbY_zSbXoB4rTQ_3RIn607HQNJNyYUrEUP7GYvdglc172nOmpblpsqQ3f9KwSKR-ShN29WLjk93gunzPXcqsccV0CsFKYjhXmCT7lgZihIkHRRAquSxR8QHhJ6Iw_Ub_bJSMUSSbQdQBZQ-0pcCxgG8ffZqRfEmyCfOHuuoOo43m3bfe9oG5wgCPIGBw" >
 
 * Sensor
 <img src="image/czujnikgravity.jpg" alt="sensor" > 
 
 * Optional: screen (2,8” TFT Adafruit Shield)
-<img src="image/ekran.jpg">
+<img src="image/ekran.jpg" >
 
 * Optional: 3D printer to print case
 I printed for my project and here it is:
