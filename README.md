@@ -16,7 +16,7 @@ Due to the size of the measuring electrode applied to the skin surface, we colle
 
 ## What we need
 * Arduino
-<img src="https://lh3.googleusercontent.com/proxy/dKQSPoAbY_zSbXoB4rTQ_3RIn607HQNJNyYUrEUP7GYvdglc172nOmpblpsqQ3f9KwSKR-ShN29WLjk93gunzPXcqsccV0CsFKYjhXmCT7lgZihIkHRRAquSxR8QHhJ6Iw_Ub_bJSMUSSbQdQBZQ-0pcCxgG8ffZqRfEmyCfOHuuoOo43m3bfe9oG5wgCPIGBw" >
+<img src="image/arduino.jpg" alt="arduino" >
 
 * Sensor
 <img src="image/czujnikgravity.jpg" alt="sensor" > 
@@ -35,6 +35,9 @@ But in addition, to reduce the device I had to shorten the cables and solder som
 
 ### DO IT
 First you need to connect arduino and sensor, next connect with computer. You need to Arduino IDE -> https://www.arduino.cc/en/Main/Software
+
+<img src="image/zobudowo.jpg" alt="soldering" width="45%" height="45%">
+<img src="image/zobudowa.png" alt="withbox" width="70%" height="70%">
 
 ## Code in Arduino IDE
 ```
